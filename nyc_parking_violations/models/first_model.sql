@@ -1,1 +1,1 @@
-SELECT * FROM parking_violtation_codes
+SELECT * FROM parking_violation_codes
